@@ -1,0 +1,11 @@
+## This file must be named 'local.properties' and placed in the root directory of your project.
+## You need to set the path to your Android SDK installation.
+## Example for Windows:
+# sdk.dir=C\:\\Users\\YourUsername\\AppData\\Local\\Android\\Sdk
+## Example for macOS:
+# sdk.dir=/Users/YourUsername/Library/Android/sdk
+## Example for Linux:
+# sdk.dir=/home/YourUsername/Android/Sdk
+
+# Replace with your actual SDK path:
+sdk.dir=/path/to/your/android/sdk
