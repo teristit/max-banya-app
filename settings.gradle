@@ -16,3 +16,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "Max Banya App"
 include ':app'
+
+// Enforce Gradle JVM compatibility recommendation
+
