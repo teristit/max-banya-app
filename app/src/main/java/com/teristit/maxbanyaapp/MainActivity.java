@@ -21,8 +21,8 @@ public class MainActivity extends Activity {
         
         // Создаем TextView для отображения текста
         TextView textView = new TextView(this);
-        textView.setText("Макс пошел нахуй");
-        textView.setTextSize(24);
+        textView.setText("свой текст");
+        textView.setTextSize(24);// СВОЙ ТЕКСТ
         textView.setTextColor(Color.WHITE);
         textView.setTypeface(null, Typeface.BOLD);
         textView.setGravity(Gravity.CENTER);
